@@ -17,7 +17,7 @@
 ### Change branches 
 
 - The branch name format is `{change-type}/{change-name}/{author}`;
-- where change-type must be one of the types defined below; 
+- where `change-type` must be one of the types defined below; 
 - `change-name` must describe the change concisely, and should be all lowercase, with spaces represented by a hyphen; and
 - `author` is the account name of the author creating the branch.
 - Authors working on the same change should have identical change-names, and merge their work before creating a pull request for the development branch.

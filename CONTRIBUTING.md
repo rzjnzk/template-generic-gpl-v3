@@ -1,8 +1,8 @@
 # Contributing
 
-### Branches
+## Branches
 
-#### Main branches
+### Main branches
 
 `master`   
 - Compiles and deploys application using GitHub Actions. 
@@ -14,7 +14,7 @@
 - Completed changes are submitted to this branch via a pull-request that must be confirmed by a repository maintainer.
 - This branch is pushed to the `master` branch at release time.
 
-#### Change branches 
+### Change branches 
 
 - The branch name format is `{change-type}/{change-name}/{author}`;
 - where change-type must be one of the types defined below; 
@@ -23,7 +23,7 @@
 - Authors working on the same change should have identical change-names, and merge their work before creating a pull request for the development branch.
 - New branches not conforming to this format should be rejected.
 
-###### `{change-type}`
+#### `{change-type}`
 
 `feat`
 - The addition of a new feature.

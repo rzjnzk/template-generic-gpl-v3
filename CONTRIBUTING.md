@@ -1,5 +1,9 @@
 # Contributing
 
+## Development Environment Preparation
+
+Execute `setup.sh`
+
 ## Branches
 
 ### Main branches

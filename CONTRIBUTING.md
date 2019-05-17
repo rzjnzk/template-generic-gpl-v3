@@ -2,6 +2,17 @@
 
 <hr>
 
+## How to Contribute
+
+1) Greate a correctly formatted issue for your proposed change
+2) Wait for a maintainer to support your proposed change. you may begin development at any satage, though your proposed change will not be accepted until a maintainer is in support of it.
+3) Begin development on a correctly named branch, see 'Change Branches' below.
+4) Commit as frequently as you wish with correctly formatted commit messages, see `.gitmessage` in the project root directory.
+3) If working in a team, merg all changes to the team leaders branch.
+4) The team leader must create a pull-request to the development branch upon completion of the change.
+
+<hr>
+
 ## Project Maintainers
 
 **Repository Owner**:<br>
@@ -17,7 +28,7 @@ Execute `setup.sh`
 
 ## Branches
 
-### Main branches
+### Main Branches
 
 `master`   
 - Compiles and deploys application using GitHub Actions. 
@@ -29,7 +40,7 @@ Execute `setup.sh`
 - Completed changes are submitted to this branch via a pull-request that must be confirmed by a repository maintainer.
 - This branch is pushed to the `master` branch at release time.
 
-### Change branches 
+### Change Branches 
 
 - The branch name format is `{change-type}/{change-name}/{author}`;
 - where `change-type` must be one of the types defined below; 

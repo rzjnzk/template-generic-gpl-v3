@@ -1,5 +1,10 @@
 # Contributing
 
+## Project Maintainers
+
+Repository Owner
+    Robert Zack Jaidyn Norris-Karr [@rzjnzk](http://github.com/rzjnzk)
+
 ## Development Environment Preparation
 
 Execute `setup.sh`

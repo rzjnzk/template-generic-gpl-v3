@@ -1,15 +1,19 @@
 # Contributing
 
+<hr>
 
 ## Project Maintainers
 
 Repository Owner<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Robert Zack Jaidyn Norris-Karr ([@rzjnzk](http://github.com/rzjnzk))
 
+<hr>
+
 ## Development Environment Preparation
 
 Execute `setup.sh`
 
+<hr>
 
 ## Branches
 
@@ -62,3 +66,5 @@ Execute `setup.sh`
 
 `misc`		
 - For changes that do not fit into any other category (may not be needed).
+
+<hr>

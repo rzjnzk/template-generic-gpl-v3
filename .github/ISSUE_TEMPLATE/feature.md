@@ -1,8 +1,8 @@
 ---
-name: Feature
-about: Propose a feature.
+name: 'Change: Feature'
+about: Propose a change that introduces a new feature
 title: feat/[hyphen-seperated-feature-title]
-labels: ''
+labels: feature
 assignees: ''
 
 ---

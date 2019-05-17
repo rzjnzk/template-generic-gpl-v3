@@ -40,31 +40,31 @@ Execute `setup.sh`
 
 #### `{change-type}`
 
-`feat`
-- The addition of a new feature.
-
-`enha`		
-- Changes that enhance an existing feature.
-
 `bugf`
 - Non-urgent bug fixes to be included in the next release.
-
-`hotf`		
-- Urgent bug fixes to be rushed to production.
-
-`refa`		
-- Any changes that do not change the functionality of the code, such as alternative syntaxes, and rewriting in a different format or language.
-
-`perf`		
- - Changes specifically for the sake of performance.
-
-`expe`		
-- Experimental changes that may be scrapped.
 
 `docu`
 - Licensing, readme, templates, open-source documentation, source code documentation, project configuration, CI/CD, and other forms of documentation.
 
+`enha`		
+- Changes that enhance an existing feature.
+
+`expe`		
+- Experimental changes that may be scrapped.
+
+`feat`
+- The addition of a new feature.
+
+`hotf`		
+- Urgent bug fixes to be rushed to production.
+
 `misc`		
 - For changes that do not fit into any other category (may not be needed).
+
+`perf`		
+ - Changes specifically for the sake of performance.
+ 
+`refa`		
+- Any changes that do not change the functionality of the code, such as alternative syntaxes, and rewriting in a different format or language.
 
 <hr>

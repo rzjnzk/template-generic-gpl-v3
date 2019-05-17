@@ -90,3 +90,16 @@ Execute `setup.sh`
 * Any changes that do not change the functionality of the code, such as alternative syntaxes, and rewriting in a different format or language.
 
 <hr>
+
+## Style
+
+<hr>
+
+## Agreement
+
+<hr>
+
+## Testing
+
+<hr>
+

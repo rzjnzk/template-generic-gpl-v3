@@ -4,7 +4,7 @@
 
 ## Project Maintainers
 
-Repository Owner<br>
+__Repository Owner__<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Robert Zack Jaidyn Norris-Karr ([@rzjnzk](http://github.com/rzjnzk))
 
 <hr>

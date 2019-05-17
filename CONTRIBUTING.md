@@ -3,7 +3,7 @@
 ## Project Maintainers
 
 Repository Owner<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Robert Zack Jaidyn Norris-Karr [@rzjnzk](http://github.com/rzjnzk)
+&nbsp;&nbsp;&nbsp;&nbsp;Robert Zack Jaidyn Norris-Karr ([@rzjnzk](http://github.com/rzjnzk))
 
 ## Development Environment Preparation
 

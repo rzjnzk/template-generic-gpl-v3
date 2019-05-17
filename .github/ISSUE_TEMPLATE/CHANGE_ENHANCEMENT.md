@@ -1,10 +1,10 @@
 ---
-name: 'Change: Enhancement'
+name: 'Change: enhancement'
 about: Propose a change that alters an existing feature
-title: enha/[hyphen-seperated-feature-title]
+title: enha/[change-name]
 labels: enhancement
 assignees: ''
-
 ---
 
 
+<!-- End of issue -->

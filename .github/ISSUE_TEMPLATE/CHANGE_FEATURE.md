@@ -4,7 +4,9 @@ about: Propose a change that introduces a new feature
 title: feat/[change-name]
 labels: feature
 assignees: ''
+
 ---
+
 ## Summary
 <!-- A summary of the feature's purpose. -->
 

@@ -16,13 +16,13 @@
 - [ ] `perf` (performance): Changes specifically for the sake of performance.
 - [ ] `refa` (refactor): Any changes that do not change the functionality of the code, such as alternative syntaxes, and rewriting in a different format or language.
 
-# Fixes/Implements
+## Fixes/Implements
 
 <!-- Reference change issues that this change fixes or implements. One reference per line. -->
 <!-- BEGIN issue references -->
 <!-- END issue references -->
 
-# Description
+## Description
 
 <!-- A description of the change. -->
 <!-- BEGIN description -->

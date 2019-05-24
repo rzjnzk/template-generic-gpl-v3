@@ -1,6 +1,7 @@
 ## Pull Request Checklist
 
 - [ ] I have read the entirety of [CONTRIBUTING.md](https://github.com/rzjnzk/template/blob/master/CONTRIBUTING.md#contributing) and strictly followed it's instruction. 
+- [ ] I have added any required test cases.
 
 ## Change Type
 

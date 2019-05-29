@@ -11,3 +11,14 @@
 #
 # [Ticket: X]                                                          |
 # ----------------------------------------------------------------------
+#
+# Execute `setup.sh` to setup the project, 
+# and use this template for the local repository.
+#
+# To explicitly use this template for the local repository directory
+# execute `git config commit.template .gitmessage`.
+#
+# To configure globally (recommended)
+# execute `git config --global commit.template .gitmessage`.
+
+

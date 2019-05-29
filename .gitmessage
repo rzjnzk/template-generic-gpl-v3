@@ -4,7 +4,7 @@
 # ----------------------------------------------------------------------
 # Commit message template
 # ----------------------------------------------------------------------
-# Subject line (Imperative Mood)               50|
+# Subject line (imperative mood)               50|
 # 
 # Multi-line description of commit.                                  72|
 # May be detailed.                                                     |
@@ -18,5 +18,3 @@
 # To configure globally (recommended)
 # execute `git config --global commit.template .gitmessage`.
 # ----------------------------------------------------------------------
-
-

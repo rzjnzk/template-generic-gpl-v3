@@ -8,10 +8,7 @@
 # 
 # Multi-line description of commit.                                  72|
 # May be detailed.                                                     |
-#
-# [Ticket: X]                                                          |
 # ----------------------------------------------------------------------
-#
 # Execute `setup.sh` to setup the project, 
 # and use this template for the local repository.
 #
@@ -20,5 +17,6 @@
 #
 # To configure globally (recommended)
 # execute `git config --global commit.template .gitmessage`.
+# ----------------------------------------------------------------------
 
 

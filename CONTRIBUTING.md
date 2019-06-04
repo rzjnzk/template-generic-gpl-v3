@@ -15,7 +15,7 @@
 
 ## How to Contribute
 
-1) Greate a correctly formatted issue for your proposed change
+1) Greate a correctly formatted issue for your proposed change.
 2) Wait for a maintainer to support your proposed change. you may begin development at any satage, though your proposed change will not be accepted until a maintainer is in support of it.
 3) Begin development on a correctly named branch, see 'Change Branches' below.
 4) Commit as frequently as you wish with correctly formatted commit messages, see `.gitmessage` in the project root directory.

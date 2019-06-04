@@ -1,4 +1,4 @@
-# `{{gpas}{repo-name}}`
+# `{[gpas]{repo-name}}`
 
 <div align="center">
     <a href="https://travis-ci.org/{{gpas}{repo-owner-username}}/{gpas}{repo-name}}">

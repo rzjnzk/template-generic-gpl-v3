@@ -2,19 +2,23 @@
 
 #                                              50|                   72|
 # ----------------------------------------------------------------------
-# Commit message template
+#
+# TEMPLATE
 # ----------------------------------------------------------------------
 # Subject line (imperative mood)               50|
 # 
 # Multi-line description of commit.                                  72|
 # May be detailed.                                                     |
 # ----------------------------------------------------------------------
-# Execute `setup.sh` to setup the project, 
-# and use this template for the local repository.
 #
-# To explicitly use this template for the local repository directory
-# execute `git config commit.template .gitmessage`.
+# NOTES
+# ----------------------------------------------------------------------
+# - The imperative mood is a grammatical mood that forms a command or 
+#   request. (Example: 'adds', 'removes').
 #
-# To configure globally (recommended)
-# execute `git config --global commit.template .gitmessage`.
+# - Begin a commit message with a capital, and do not end it with a
+#   full-stop.
+#
+# - Encapsulate case-sensitive names with backticks; this includes file 
+#   names.
 # ----------------------------------------------------------------------

@@ -1,4 +1,4 @@
-# `{[gpas]{repo-name}}`
+# `{{gpas}{repo-name}}`
 
 <div align="left">
     <a href="LICENSE.md">

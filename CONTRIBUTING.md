@@ -1,6 +1,6 @@
 # Contributing
 
-<hr>
+---
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@
     * [Main Branches](#main-branches)
     * [Change Branches](#change-branches)
 
-<hr>
+---
 
 ## How to Contribute
 
@@ -22,20 +22,20 @@
 3) If working in a team, merg all changes to the team leaders branch.
 4) The team leader must create a pull-request to the development branch upon completion of the change.
 
-<hr>
+---
 
 ## Project Maintainers
 
-**Repository Owner**:<br>
+**Repository Owner**: \
 &nbsp;&nbsp;&nbsp;&nbsp;Robert Zack Jaidyn Norris-Karr ([@rzjnzk](http://github.com/rzjnzk)).
 
-<hr>
+---
 
 ## Development Environment Preparation
 
 Execute `setup.sh`
 
-<hr>
+---
 
 ## Branches
 
@@ -89,17 +89,17 @@ Execute `setup.sh`
 `refa`		
 * Any changes that do not change the functionality of the code, such as alternative syntaxes, and rewriting in a different format or language.
 
-<hr>
+---
 
 ## Style
 
-<hr>
+---
 
 ## Agreement
 
-<hr>
+---
 
 ## Testing
 
-<hr>
+---
 

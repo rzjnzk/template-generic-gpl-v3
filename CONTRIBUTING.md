@@ -13,6 +13,7 @@
 * [Style](#style)
 * [Agreement](#agreement)
 * [Testing](#testing)
+
 ---
 
 ## How to Contribute

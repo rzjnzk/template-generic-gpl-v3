@@ -10,7 +10,9 @@
 * [Branches](#branches)
     * [Main Branches](#main-branches)
     * [Change Branches](#change-branches)
-
+* [Style](#style)
+* [Agreement](#agreement)
+* [Testing](#testing)
 ---
 
 ## How to Contribute
@@ -27,13 +29,13 @@
 ## Project Maintainers
 
 **Repository Owner**: \
-&nbsp;&nbsp;&nbsp;&nbsp;Robert Zack Jaidyn Norris-Karr ([@rzjnzk](http://github.com/rzjnzk)).
+&nbsp;&nbsp;&nbsp;&nbsp;{{gpas}{owner-full-name}} ([@{{gpas}{owner-github-username}}](http://github.com/{{gpas}{owner-github-username}})).
 
 ---
 
 ## Development Environment Preparation
 
-Execute `setup.sh`
+Execute `configure`.
 
 ---
 
